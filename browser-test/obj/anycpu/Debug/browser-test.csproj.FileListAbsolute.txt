@@ -1,0 +1,81 @@
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/browser-test.exe.config
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/browser-test.exe
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/browser-test.pdb
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Buffers.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Memory.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Numerics.Vectors.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Text.Encodings.Web.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Text.Json.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.ValueTuple.dll
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Buffers.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Numerics.Vectors.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Memory.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Text.Encodings.Web.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.ValueTuple.xml
+/Users/shariq/Projects/browser-test/browser-test/bin/Debug/System.Text.Json.xml
+/Users/shariq/Projects/browser-test/browser-test/obj/anycpu/Debug/browser-test.exe.config
+/Users/shariq/Projects/browser-test/browser-test/obj/anycpu/Debug/browser-test.csproj.CoreCompileInputs.cache
+/Users/shariq/Projects/browser-test/browser-test/obj/anycpu/Debug/browser-test.csproj.CopyComplete
+/Users/shariq/Projects/browser-test/browser-test/obj/anycpu/Debug/browser-test.exe
+/Users/shariq/Projects/browser-test/browser-test/obj/anycpu/Debug/browser-test.pdb
+/Users/shariq/Projects/browser-test/browser-test/obj/anycpu/Debug/browser-test.csproj.AssemblyReference.cache
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/browser-test.exe.config
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/browser-test.exe
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/browser-test.pdb
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Buffers.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Memory.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Numerics.Vectors.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Text.Encodings.Web.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Text.Json.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.ValueTuple.dll
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Buffers.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Numerics.Vectors.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Memory.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Text.Encodings.Web.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.ValueTuple.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/bin/Debug/System.Text.Json.xml
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/obj/anycpu/Debug/browser-test.csproj.AssemblyReference.cache
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/obj/anycpu/Debug/browser-test.exe.config
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/obj/anycpu/Debug/browser-test.csproj.CoreCompileInputs.cache
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/obj/anycpu/Debug/browser-test.csproj.CopyComplete
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/obj/anycpu/Debug/browser-test.exe
+/Users/shariq/Git/b/f21sc-2021-22-cw1/browser-test/obj/anycpu/Debug/browser-test.pdb
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/browser-test.exe.config
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/browser-test.exe
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/browser-test.pdb
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Buffers.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Memory.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Numerics.Vectors.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Text.Encodings.Web.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Text.Json.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Threading.Tasks.Extensions.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.ValueTuple.dll
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Buffers.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Numerics.Vectors.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Memory.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Text.Encodings.Web.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Threading.Tasks.Extensions.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/Microsoft.Bcl.AsyncInterfaces.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.ValueTuple.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/bin/Debug/System.Text.Json.xml
+/Users/shariq/Git/F21SC– Browser/browser-test/obj/anycpu/Debug/browser-test.csproj.AssemblyReference.cache
+/Users/shariq/Git/F21SC– Browser/browser-test/obj/anycpu/Debug/browser-test.exe.config
+/Users/shariq/Git/F21SC– Browser/browser-test/obj/anycpu/Debug/browser-test.csproj.CoreCompileInputs.cache
+/Users/shariq/Git/F21SC– Browser/browser-test/obj/anycpu/Debug/browser-test.csproj.CopyComplete
+/Users/shariq/Git/F21SC– Browser/browser-test/obj/anycpu/Debug/browser-test.exe
+/Users/shariq/Git/F21SC– Browser/browser-test/obj/anycpu/Debug/browser-test.pdb
